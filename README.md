@@ -1,170 +1,115 @@
-# 🔥 VIVIX SHOP 🔥
-*Next-Generation WhatsApp Multi-Device Automation*
+```
+DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
+```
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=SCARLET-MD&fontSize=80&fontAlign=50&fontAlignY=40&desc=Advanced%20WhatsApp%20Bot&descAlign=50&descAlignY=60" width="100%"/>
-</div>
+> **CURRENT BOT VERSION ➜ `1.0.9 ⚡`**
+---
 
-<div align="center">
-  <img src="https://files.catbox.moe/w1r1mm.jpg" alt="Vivix shop" width="400" height="400" style="border-radius: 20px; border: 3px solid #FF0080;"/>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=HEY%20DEAR%20WELCOME;TOO%20ELITE-PRO-V1%20BOT%20REPO;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20CYRILIX-XMD" alt="Typing SVG" />
+</a>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🤖+MULTI-DEVICE+WHATSAPP+BOT;⚡+POWERED+BY+BAILEYS+LIBRARY;🚀+CREATED+BY+VIVIX+SHOP" alt="Typing Animation" />
+  <a href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2">
+    <img alt=Support weight="10" src="https://raw.githubusercontent.com/Cyrilix-XMD/CYRILIX-STORE/main/img-url/20250604_163513.jpg"> 
+    </p>
+<p align="center"> 
+    </p>
+<p align="center">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <a align="center">
+  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a aria-label="Chat me" href="https://t.me/elitepro_md" target="_blank">
+    <img alt="telegram" src="https://img.shields.io/badge/Telegram Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>  
+   
+ ---
+## FIRST FORK THE REPOSITORY
+` CLICK THE FORK BUTTON BELOW `
+
+<a href="https://github.com/EliteProTech/ELITE-PRO-V1/fork"><img title="ELITE-PRO-V1" src="https://img.shields.io/badge/FORK-BOT%20REPO-h?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  
+## GET SESSION ID BELOW
+> **FROM PAIRING WEB**
+
+<a href='https://session-id-website.vercel.app/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+
+## DEPLOYMENT METHODS
+- Upload SESSION_ID (creds.json) on session folder or add it to your .env file: SESSION_ID=
+- Edit .env to your Choice.
+
+---
+
+## FOR PANEL DEPLOYMENT
+- Click on **[DOWNLOAD](https://eliteproverified.vercel.app/)** to get zip file🗃.
+- Create a server on your panel
+- Upload zip file 🗃️
+- Unzip it and others
+- Start server
+---
+
+## OTHER DEPLOYMENT PLATFORMS
+- **Deploy on [Render](https://render.com)**
+- **Deploy on [Katabump](https://dashboard.katabump.com/auth/login)**
+- **Deploy on [Optiklink](https://optiklink.com/)**
+- **Deploy on [Heroku](https://dashboard.heroku.com/new?template=https://github.com/EliteProTech/ELITE-PRO-V1)**
+- **Deploy on [Bot-Hosting.Net](https://bot-hosting.net/)**
+---
+
+## FOR TERMUX/SSH/UBUNTU
+```
+Before inputting these commands in termux... You have to extract the bot file in your internal storage. (Downloads folder)
+
+apt update && apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+pkg install yarn
+termux-setup-storage
+cd /storage/emulated/0/Download/ELITE-PRO-V1-main
+yarn install
+npm start
+```
+---
+
+## FOR STARTING TERMUX AGAIN
+```
+cd /storage/emulated/0/Download/ELITE-PRO-V1-main
+npm start
+```
+---
+
+## FOR 24/7 ACTIVATION TERMUX/SSH/UBUNTU
+```
+bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+Paste this after the installation
+```
+---
+
+<p align="Left">
+    <a align="center">
+  <a aria-label="WEBSITE" href="https://eliteprotech.zone.id/" target="_blank">
+    <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
+</a>
+<a aria-label="OTHER REPO" href="https://github.com/EliteProTech/Elite-Pro-V2" target="_blank">
+    <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
-
-## 🎯 **Bot Capabilities**
-
-<div align="center">
-
-```
-🔸 Group Management & Moderation    🔸 Advanced Media Processing
-🔸 Interactive Games & Entertainment 🔸 Auto-Reply & Smart Responses  
-🔸 Sticker Creation & Conversion    🔸 Music & Video Downloads
-🔸 Anti-Spam & Security Features    🔸 Custom Commands & Automation
-```
-
-</div>
-
----
-
-## ⚡ **Quick Deployment**
-
-<div align="center">
-  
-### Step 1: Get Your Copy
-[![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPOSITORY-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Hindagod5/vivix shop/fork)
-
-### Step 2: Generate Session
-[![Get Pairing Code](https://img.shields.io/badge/🔗_GENERATE_SESSION-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://snowbird-pairing.onrender.com/)
-
-### Step 3: Download & Deploy
-[![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-4CAF50?style=for-the-badge&logo=download&logoColor=white&labelColor=000000)](https://github.com/hindagod5/vivix shop/archive/refs/heads/main.zip)
-
-</div>
-
----
-
-## 🌐 **SCRIPT KIDDIES NETWORK**
-
-<div align="center">
-
-### 👑 *Connect With The King Badboi Empire* 👑
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
-<div align="center">
-
-| 🎯 **PLATFORM** | 🔗 **CONNECT** | 📊 **PURPOSE** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="20"> **OFFICIAL CHANNEL** | [**📱 JOIN NOW**](https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x) | 🚀 Latest Updates & Bot News |
-| <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" height="20"> **COMMUNITY GROUP** | [**💬 CHAT WITH US**](https://chat.whatsapp.com/D6NNN1gMQlqBJDstk5a5Gk) | 🤝 Support & Discussions |
-| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"> **SOURCE CODE** | [**⭐ STAR REPO**](https://github.com/hindagod5) | 💻 Code & Contributions |
-| <img src="https://img.shields.io/badge/Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white" height="20"> **OFFICIAL SITE** | [**🌟 VISIT NOW**](https://vivix shop-wedsite.vercel.app/) | 📚 Docs & Tutorials |
-| <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" height="20"> **CREATIVE CONTENT** | [**🎵 FOLLOW**](https://tiktok.com/@hindagod5) | 🎬 Fun Videos & edits |
-| <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="20"> **TELEGRAM HUB** | [**🔥 JOIN TEAM**](https://t.me/+x2VvZlj-F2E3MTNk) | ⚡ Real-time Chat |
-| <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" height="20"> **NEWS CHANNEL** | [**📢 SUBSCRIBE**](https://t.me/vivix shop) | 📰 Announcements |
-
-</div>
-
----
-
-## 🚀 **Featured Connections**
-
-<div align="center">
-
-### 🔥 *Most Popular Platforms* 🔥
-
-<a href="https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x">
-<img src="https://img.shields.io/badge/🎗️_SCRIPT_KIDDIES_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54&logoWidth=30" alt="WhatsApp Channel" height="50"/>
-</a>
-
-<a href="https://vivix shop-wedsite.vercel.app/">
-<img src="https://img.shields.io/badge/👑_HINDAGOD5_WEBSITE-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&logoWidth=30" alt="Official Website" height="50"/>
-</a>
-
-<a href="https://tiktok.com/@kingbadboi52">
-<img src="https://img.shields.io/badge/🎬_TIKTOK_CREATOR-FF0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000&logoWidth=30" alt="TikTok" height="50"/>
-</a>
-
-</div>
-
----
-
-## 💻 **Local Installation**
-
-<div align="center">
-
-### 🛠️ *Developer Setup*
-
-</div>
-
-```bash
-# Clone the repository
-git clone https://github.com/Hindagod5/vivix shop.git
-
-# Navigate to project
-cd vivix shop 
-
-# Install dependencies
-npm install
-
-# Start the bot
-node index.js
-```
-
-**Requirements:** Node.js 16+ | Git | Stable Internet
-
----
-
-## 🎮 **Bot Features Showcase**
-
-<div align="center">
-
-| Feature Category | Available Commands |
-|:---|:---|
-| **🛡️ Moderation** | `.tagall` `.warn` `.kick` `.promote` `.demote` `.ban` `.unban` |
-| **🎨 Media Tools** | `.sticker` `.toimg` `.tts` `.removebg` |
-| **🎵 Entertainment** | `.play` `.video` `.lyrics` `.joke` |
-| **🔧 Utilities** | `.weather` `.translate` `.qr` `.shorturl` |
-| **🎯 Games** | `.tictactoe` `.quiz` `.rps` `.dice` |
-
-</div>
-
----
-
-## 🤝 **Support & Contributions**
-
-<div align="center">
-
-### 💡 *Need Help or Found a Bug?*
-
-<a href="https://wa.me/2348140825959?text=Hi%20Vivix%20shop!%20I%20need%20help%20with%20Vivix shop%20BOT">
-<img src="https://img.shields.io/badge/📞_DIRECT_WHATSAPP_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54" alt="WhatsApp Support" height="40"/>
-</a>
-
-<a href="https://github.com/HINDAGOD5/Vivix shop/issues">
-<img src="https://img.shields.io/badge/🐛_REPORT_ISSUES-FF4444?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Report Issues" height="40"/>
-</a>
-
-</div>
-
----
-
-## 📜 **License & Credits**
-
-<div align="center">
-
-**Vivix shop** © 2024 by [**Hindagod5**](https://github.com/Vivix shop)  
-*Licensed under MIT License*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-### 🎉 *Thank you for choosing Vivix shop!* 🎉
-*Join the Script Kiddies Revolution Today!* ⚡
-
-</div>
+ --- 
+- Star ⭐ repo if you like this bot.
